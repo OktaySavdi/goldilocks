@@ -6,7 +6,7 @@ Goldilocks is a utility that can help you identify a starting point for resource
 
 Deploy the Metrics Server with the following command:  
 ```ruby
-kubectl apply -f [https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml](https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml)
+kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
 ```
  Since the metric server will not open properly, the following parameters must be added.
 ```ruby
