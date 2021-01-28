@@ -80,3 +80,7 @@ kubectl -n goldilocks port-forward svc/goldilocks-dashboard 8080:80
 or
 
 change service type to nodeport
+
+Result
+
+![image](https://user-images.githubusercontent.com/3519706/106140758-3baf8980-6180-11eb-8606-43097c746aec.png)
