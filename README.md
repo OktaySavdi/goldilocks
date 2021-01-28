@@ -1,5 +1,7 @@
 ## Goldilocks
 
+Goldilocks is a utility that can help you identify a starting point for resource requests and limits.
+
 **To deploy the Metrics Server**
 
 Deploy the Metrics Server with the following command:  
@@ -83,4 +85,4 @@ change service type to nodeport
 
 Result
 
-![image](https://user-images.githubusercontent.com/3519706/106140758-3baf8980-6180-11eb-8606-43097c746aec.png)
+![image](https://user-images.githubusercontent.com/3519706/106140905-70bbdc00-6180-11eb-976e-1e892781e8e9.png)
