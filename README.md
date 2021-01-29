@@ -34,7 +34,7 @@ kubectl top nodes
 
 To install VPA, please download the source code of VPA and run the following command inside the `vertical-pod-autoscaler` directory:([URL](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler))
 ```ruby
-git clone [https://github.com/kubernetes/autoscaler.git](https://github.com/kubernetes/autoscaler.git)
+git clone https://github.com/kubernetes/autoscaler.git
 ```
 ```ruby
 cd autoscaler/vertical-pod-autoscaler/
